@@ -9,7 +9,7 @@ This project demonstrates how a **Kalman Filter** can be used to clean up noisy 
 - Plots the raw vs. filtered data to show how noise is reduced.
 
 ## Visualization
-![Plotted values graph](./1D Filter/PlottedData.jpg)
+![Plotted values graph](./1D%20Filter/PlottedData.jpg)
 
 ## How to Run
 1. **Install Python 3** (preferably 3.8+)
